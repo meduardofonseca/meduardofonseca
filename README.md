@@ -1,7 +1,7 @@
 
 <h3>About me</h3>
 <ul>
-  <li>🔭 I’m currently working on my master's project</li>
+
   <li>🌱 I’m currently learning Python for Data Science and Machine Learning</li>
   <li>💬 A good talk is welcome in everytime</li>
   <li>📫 How to reach me: marcos.edu.fonseca</li>
