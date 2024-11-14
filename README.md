@@ -4,7 +4,7 @@
 
   <li>🌱 I’m currently learning Python for Data Science and Machine Learning</li>
   <li>💬 A good talk is welcome in everytime</li>
-  <li>📫 How to reach me: marcos.edu.fonseca</li>
+  <li>📫 How to reach me: marcos.edu.fonseca@gmail.com</li>
   <li>😄 Pronouns: he/his</li>
 </ul>
 
@@ -36,5 +36,5 @@
   <a href="httpss:/www.linkedin.com/in/marcosedufonseca" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-delgado-710a95219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=+5519998662345&text=" alt="WhatsApp">
+  <a href="https://wa.me/+5519998662345" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5519992179323&text="/></a>
