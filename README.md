@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:marcos.edu.fonseca@usp.br" alt="Gmail">
+  <a href="mailto:marcos.edu.fonseca@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=johanncf@metalmat.ufrj.br" /></a>
 
   <a href="httpss:/www.linkedin.com/in/marcosedufonseca" alt="Linkedin">
