@@ -21,7 +21,7 @@
 
   <img align="center" alt="meduardofonseca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="meduardofonseca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="meduardofonseca-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"> 
+  <img align="center" alt="meduardofonseca-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="meduardofonseca-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
 </div>
 
